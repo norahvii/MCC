@@ -1,11 +1,15 @@
 #### A note from the Summer Math Crash Course team:
 Imaging Science Student Council’s [Math Crash Course](https://sites.wustl.edu/imagingsciences/summer-2023-math-crash-course/) is for students who need to learn, re-learn, or brush up on calculus, linear algebra, or functional analysis (signals and systems) before beginning coursework. These courses are designed for independent study through guided solutions and textbook materials.  
 
-Course Expectations:
+---
+
+#### Course Expectations:
 1. These courses will not be graded.
 2. Our goal is exposure, not mastery.
 3. Work together whenever; doing so is helpful.
 4. Don’t hesitate to ask one another and your tutors for help.
+
+---
 
 The math crash course is designed to be taken over the course of a 9-week curriculum; calculus and linear algebra are taken in parallel over the first 6 weeks, and functional analysis comprises the final 3 weeks. Each course is divided into daily modules, which typically assign both reading and practice problems (we recommend spending 2-3 hours on each module, or 2-3 hours per course per day). For each course, tutors will lead two problem sessions per week, where they’ll review key concepts and work through exercises.  
 
