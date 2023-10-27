@@ -1,5 +1,6 @@
 
 3.  Suppose $X$ is a random Weibull variable — this means that it has a probability density of the form $f_X(x)$ given below. Show that $f_X$ is a valid probability density.
+
 $$f_X(x)= 
         \begin{cases} 
         \lambda px^{p-1} e^{-\lambda x^p}, \quad &x > 0,  \\
